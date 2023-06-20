@@ -1,4 +1,4 @@
-# ![Hi 👋, I'm Rasool Dastoori](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=28&duration=1500&pause=2500&color=FFFFFF&width=450&height=44&lines=Hi+%F0%9F%91%8B%2C%20I'm+Rasool+Dastoori;Welcome%20to%20my%20GitHub%20profile)
+# ![Hi 👋, I'm Rasool Dastoori](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=28&duration=1500&pause=2500&color=FFFFFF&width=450&height=46&lines=Hi+%F0%9F%91%8B%2C%20I'm+Rasool+Dastoori;Welcome%20to%20my%20GitHub%20profile)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
@@ -32,7 +32,7 @@ I'm starting to regularly spend time to work on several open-source libraries an
 ![SolidJS](https://img.shields.io/badge/-SolidJS-05122A?style=flat&logo=solid)&nbsp;
 ![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)
 
-## ⚙️ &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <img src="https://img.shields.io/github/followers/dastoori?style=social" alt="GitHub followers"/>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=dastoori&style=flat&color=blue"/>
@@ -52,7 +52,7 @@ I'm starting to regularly spend time to work on several open-source libraries an
 
 \
 &nbsp;
-![Follow me](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=17&duration=1200&pause=800&color=FFFFFF&width=500&height=28&lines=If%20you%20find%20my%20work%20interesting%20or%20useful;Consider%20following%20me%20on%20GitHub%20to%20show%20your%20support%20%F0%9F%A4%8D)
+![Follow me](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=17&duration=1800&pause=1000&color=FFFFFF&width=500&height=28&lines=If%20you%20find%20my%20work%20interesting%20or%20useful...;Consider%20following%20me%20on%20GitHub%20to%20show%20your%20support%20%F0%9F%A4%8D)
 \
 &nbsp;
 
