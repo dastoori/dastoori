@@ -1,4 +1,4 @@
-# ![Hi 👋, I'm Rasool Dastoori](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=28&duration=1500&pause=2500&color=FFFFFF&width=450&height=54&lines=Hi+%F0%9F%91%8B%2C%20I'm+Rasool+Dastoori;Welcome%20to%20my%20GitHub%20profile)
+# ![Hi 👋, I'm Rasool Dastoori](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=28&duration=1500&pause=2500&color=FFFFFF&width=450&height=44&lines=Hi+%F0%9F%91%8B%2C%20I'm+Rasool+Dastoori;Welcome%20to%20my%20GitHub%20profile)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
@@ -9,7 +9,7 @@ I'm starting to regularly spend time to work on several open-source libraries an
 
 - 🚀 I'm always on the lookout for new technologies to explore and learn.
 - 🤝 Collaboration and new opportunities are always welcome. Don't hesitate to get in touch with me.
-- 🌎 Passionate about topics such as Cloud Computing, Distributed Systems, Database Storage Engines, Microservices and DevOps Tools.
+- 🌎 Passionate about topics such as Cloud Computing, Distributed Systems, Database Storage Engines, and DevOps Tools.
 - 🚴‍♂️ When I'm not coding, you can find me cycling or eBike touring and enjoying the outdoors.
 - 📫 You can contact me through my email or social media profiles.
 
@@ -34,19 +34,15 @@ I'm starting to regularly spend time to work on several open-source libraries an
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/dastoori">
-  <img src="https://img.shields.io/github/followers/dastoori?style=social" alt="GitHub followers"/>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=dastoori&style=flat&color=blue"/>
-</a>
+<img src="https://img.shields.io/github/followers/dastoori?style=social" alt="GitHub followers"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=dastoori&style=flat&color=blue"/>
 <br/>
 <br/>
 <details>
   <summary>👀 More details...</summary>
   <br/>
-  <a href="https://github.com/dastoori">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dastoori&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dastoori&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dastoori&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dastoori&layout=compact&langs_count=8&theme=algolia"/>
 </details>
 
 ## 🤝🏻 &nbsp;Connect with Me
@@ -54,7 +50,10 @@ I'm starting to regularly spend time to work on several open-source libraries an
 [![LinkedIn Profile](https://img.shields.io/badge/-Rasool%20Dastoori-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasool-dastoori/)&nbsp;
 [![Twitter Profile](https://img.shields.io/badge/-Rasool%20Dastoori-1d9bf0?style=flat&logo=twitter&logoColor=white)](https://twitter.com/RasoolDastoori)
 
-![Follow me](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=17&duration=1200&pause=800&color=FFFFFF&width=500&height=80&lines=If%20you%20find%20my%20work%20interesting%20or%20useful;Consider%20following%20me%20on%20GitHub%20to%20show%20your%20support%20%F0%9F%A4%8D)
-
+\
+&nbsp;
+![Follow me](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=17&duration=1200&pause=800&color=FFFFFF&width=500&height=28&lines=If%20you%20find%20my%20work%20interesting%20or%20useful;Consider%20following%20me%20on%20GitHub%20to%20show%20your%20support%20%F0%9F%A4%8D)
+\
+&nbsp;
 
 *Last update: 20 June, 2023*
