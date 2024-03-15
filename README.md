@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 I'm a seasoned software engineer with over a decade experience under my belt.\
-In my current role, I serve as a Lead Engineer. Outside of my full-time work, I enjoy contributing to open source projects.
+I work as a Senior DevOps Engineer. Outside of my full-time work, I enjoy contributing to open source projects.
 
 I'm starting to regularly spend time to work on several open-source libraries and projects. I'll be working on a wide range of projects, from fun and challenging experiments to practical tools that are used on a daily basis, utilizing technologies such as Go, Node.js, Rust, and JavaScript
 
@@ -56,4 +56,4 @@ I'm starting to regularly spend time to work on several open-source libraries an
 \
 &nbsp;
 
-*Last update: 20 June, 2023*
+*Last update: 16 March, 2024*
