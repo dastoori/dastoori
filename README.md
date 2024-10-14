@@ -2,15 +2,14 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-I'm a seasoned software engineer with over a decade experience under my belt.\
-I work as a Senior DevOps Engineer. Outside of my full-time work, I enjoy contributing to open source projects.
+I’m a DevOps Engineer with a Software Engineering background, and I love blending both worlds. I get to build, optimize, and automate all the cool stuff that keeps systems running smoothly while making developer experiences better.
 
-I'm starting to regularly spend time to work on several open-source libraries and projects. I'll be working on a wide range of projects, from fun and challenging experiments to practical tools that are used on a daily basis, utilizing technologies such as Go, Node.js, Rust, and JavaScript
+In my spare time, I enjoy experimenting with new ideas to building practical tools. I often work with Go, Node.js, Rust, and JavaScript, anything that keeps me curious and learning new things.
 
 - 🚀 I'm always on the lookout for new technologies to explore and learn.
 - 🤝 Collaboration and new opportunities are always welcome. Don't hesitate to get in touch with me.
-- 🌎 Passionate about topics such as Cloud Computing, Distributed Systems, Database Storage Engines, and DevOps Tools.
-- 🚴‍♂️ When I'm not coding, you can find me cycling or eBike touring and enjoying the outdoors.
+- 🌎 Passionate about topics such as Distributed Systems, Database Storage Engines, and DevOps Tools.
+- 🚴‍♂️ When I'm not coding, you can find me cycling and enjoying the outdoors.
 - 📫 You can contact me through my email or social media profiles.
 
 ## 🛠 &nbsp;Tech Stack
